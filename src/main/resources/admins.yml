@@ -1,0 +1,34 @@
+# 
+# TotalFreedomMod 5.0 Admin List
+madgeek1450:
+  username: Madgeek1450
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 1.2.3.4
+  - 8.8.8.8
+  last_login: Sat, 2 Apr 2016 10:08:39 -0400
+  login_message: the &4Co-Founder&b and &6Master-ass-kicker&b.
+markbyron:
+  username: markbyron
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 8.8.4.4
+  last_login: Sat, 2 Apr 2016 10:08:39 -0400
+  login_message: the &dOwner&b.
+prozza:
+  username: Prozza
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 127.0.0.1
+  last_login: Sat, 2 Apr 2016 10:08:39 -0400
+  login_message: the &5Lead Developer&b!
+sam22323:
+  username: Sam22323
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 71.202.193.106
+  last_login: Sun, 25 Mar 2018 18:28:41 -0400
