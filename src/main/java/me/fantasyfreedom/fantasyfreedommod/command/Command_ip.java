@@ -6,9 +6,9 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-@CommandPermissions(level = Rank.SUPER_ADMIN, source = SourceType.BOTH)
+@CommandPermissions(level = Rank.ADMIN, source = SourceType.BOTH)
 @CommandParameters(description = "Shows all IPs registered to a player", usage = "/<command> <player>")
-public class Command_findip extends FreedomCommand
+public class Command_ip extends FreedomCommand
 {
 
     @Override
